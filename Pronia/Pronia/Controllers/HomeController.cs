@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Pronia.Data;
 using Pronia.Models;
 using Pronia.ViewModels;
@@ -14,6 +15,9 @@ namespace Pronia.Controllers
         }
         public IActionResult Index()
         {
+            Product product = new Product();
+            Category category = new Category();
+
             List<Slider> slides = new List<Slider>
             {
                 new Slider
@@ -50,7 +54,15 @@ namespace Pronia.Controllers
 
             HomeVM homeVM = new HomeVM
             {
-                Slides = _context.Slides.OrderBy(s => s.Order).Take(2).ToList()
+                Slides = _context.Slides
+                .OrderBy(s => s.Order)
+                .Take(2)
+                .ToList(),
+
+                Products = _context.Products
+                .Include(p => p.ProductImgs.Where(pi => pi.IsPrimary != null))
+                .Take(8)
+                .ToList()
             };
 
             return View(homeVM);
