@@ -1908,6 +1908,54 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yBq34vjrYG0zLwbB4EgsG\u002B2wpmfQ2Kh0bMCMb0pWgp8="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"794"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yBq34vjrYG0zLwbB4EgsG\u002B2wpmfQ2Kh0bMCMb0pWgp8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 28 Apr 2025 19:18:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Pronia/assets/images/website-images/Chrysanthemum1.a6f2xdwh2i.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Chrysanthemum1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a6f2xdwh2i"},{"Name":"integrity","Value":"sha256-rvF32FwPjsTRd/QaZy4eY65J\u002B8ZZhxGdGepfKPiGAZE="},{"Name":"label","Value":"_content/Pronia/assets/images/website-images/Chrysanthemum1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1153709"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rvF32FwPjsTRd/QaZy4eY65J\u002B8ZZhxGdGepfKPiGAZE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 20:31:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Pronia/assets/images/website-images/Chrysanthemum1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Chrysanthemum1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rvF32FwPjsTRd/QaZy4eY65J\u002B8ZZhxGdGepfKPiGAZE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1153709"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rvF32FwPjsTRd/QaZy4eY65J\u002B8ZZhxGdGepfKPiGAZE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 20:31:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Pronia/assets/images/website-images/Chrysanthemum2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Chrysanthemum2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qEyAeu6MUm\u002Bjq4s6jVD3i9Ak61pJ7PQw8Xo2eMm0fiI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"70124"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qEyAeu6MUm\u002Bjq4s6jVD3i9Ak61pJ7PQw8Xo2eMm0fiI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 20:32:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Pronia/assets/images/website-images/Chrysanthemum2.oc5djxsmh8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Chrysanthemum2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oc5djxsmh8"},{"Name":"integrity","Value":"sha256-qEyAeu6MUm\u002Bjq4s6jVD3i9Ak61pJ7PQw8Xo2eMm0fiI="},{"Name":"label","Value":"_content/Pronia/assets/images/website-images/Chrysanthemum2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"70124"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qEyAeu6MUm\u002Bjq4s6jVD3i9Ak61pJ7PQw8Xo2eMm0fiI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 20:32:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Pronia/assets/images/website-images/Chrysanthemum3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Chrysanthemum3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-W0xeYlA97BLJD6ymIzimECmHcvrwDFw/0yUEA0\u002Bzg1s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"352812"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022W0xeYlA97BLJD6ymIzimECmHcvrwDFw/0yUEA0\u002Bzg1s=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 20:33:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Pronia/assets/images/website-images/Chrysanthemum3.x94szzksoh.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Chrysanthemum3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x94szzksoh"},{"Name":"integrity","Value":"sha256-W0xeYlA97BLJD6ymIzimECmHcvrwDFw/0yUEA0\u002Bzg1s="},{"Name":"label","Value":"_content/Pronia/assets/images/website-images/Chrysanthemum3.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"352812"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022W0xeYlA97BLJD6ymIzimECmHcvrwDFw/0yUEA0\u002Bzg1s=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 20:33:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Pronia/assets/images/website-images/Chrysanthemum4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Chrysanthemum4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gO8b8JIqZT8cVJE6X7i15S\u002BfrVf8K5qImAZYkMAWUnU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"556287"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022gO8b8JIqZT8cVJE6X7i15S\u002BfrVf8K5qImAZYkMAWUnU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 20:33:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Pronia/assets/images/website-images/Chrysanthemum4.oia5ntam6c.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\Chrysanthemum4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oia5ntam6c"},{"Name":"integrity","Value":"sha256-gO8b8JIqZT8cVJE6X7i15S\u002BfrVf8K5qImAZYkMAWUnU="},{"Name":"label","Value":"_content/Pronia/assets/images/website-images/Chrysanthemum4.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"556287"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022gO8b8JIqZT8cVJE6X7i15S\u002BfrVf8K5qImAZYkMAWUnU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 30 Apr 2025 20:33:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Pronia/assets/images/website-images/daffodil_1.btzsa1m8m6.jpeg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\website-images\daffodil_1.jpeg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

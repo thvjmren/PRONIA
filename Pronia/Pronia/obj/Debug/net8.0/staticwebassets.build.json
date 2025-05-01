@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pXekiPoNJC5n3XAI1GLYK//1s9FkLV9Esr10b3H33YE=",
+  "Hash": "b1IfTVgd9gP8v6d5CNXudELICRPNKx9fv5u9mVBU+lw=",
   "Source": "Pronia",
   "BasePath": "_content/Pronia",
   "Mode": "Default",
@@ -3354,6 +3354,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\card.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\Chrysanthemum1.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/Chrysanthemum1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a6f2xdwh2i",
+      "Integrity": "rvF32FwPjsTRd/QaZy4eY65J+8ZZhxGdGepfKPiGAZE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\Chrysanthemum1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\Chrysanthemum2.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/Chrysanthemum2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oc5djxsmh8",
+      "Integrity": "qEyAeu6MUm+jq4s6jVD3i9Ak61pJ7PQw8Xo2eMm0fiI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\Chrysanthemum2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\Chrysanthemum3.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/Chrysanthemum3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x94szzksoh",
+      "Integrity": "W0xeYlA97BLJD6ymIzimECmHcvrwDFw/0yUEA0+zg1s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\Chrysanthemum3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\Chrysanthemum4.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/Chrysanthemum4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oia5ntam6c",
+      "Integrity": "gO8b8JIqZT8cVJE6X7i15S+frVf8K5qImAZYkMAWUnU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\Chrysanthemum4.jpg"
     },
     {
       "Identity": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\daffodil_1.jpeg",
@@ -17820,6 +17904,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-yBq34vjrYG0zLwbB4EgsG+2wpmfQ2Kh0bMCMb0pWgp8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Chrysanthemum1.a6f2xdwh2i.jpg",
+      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\Chrysanthemum1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1153709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rvF32FwPjsTRd/QaZy4eY65J+8ZZhxGdGepfKPiGAZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 20:31:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6f2xdwh2i"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/Chrysanthemum1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rvF32FwPjsTRd/QaZy4eY65J+8ZZhxGdGepfKPiGAZE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Chrysanthemum1.jpg",
+      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\Chrysanthemum1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1153709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rvF32FwPjsTRd/QaZy4eY65J+8ZZhxGdGepfKPiGAZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 20:31:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rvF32FwPjsTRd/QaZy4eY65J+8ZZhxGdGepfKPiGAZE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Chrysanthemum2.jpg",
+      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\Chrysanthemum2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qEyAeu6MUm+jq4s6jVD3i9Ak61pJ7PQw8Xo2eMm0fiI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 20:32:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qEyAeu6MUm+jq4s6jVD3i9Ak61pJ7PQw8Xo2eMm0fiI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Chrysanthemum2.oc5djxsmh8.jpg",
+      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\Chrysanthemum2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qEyAeu6MUm+jq4s6jVD3i9Ak61pJ7PQw8Xo2eMm0fiI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 20:32:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oc5djxsmh8"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/Chrysanthemum2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qEyAeu6MUm+jq4s6jVD3i9Ak61pJ7PQw8Xo2eMm0fiI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Chrysanthemum3.x94szzksoh.jpg",
+      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\Chrysanthemum3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "352812"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W0xeYlA97BLJD6ymIzimECmHcvrwDFw/0yUEA0+zg1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 20:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x94szzksoh"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/Chrysanthemum3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W0xeYlA97BLJD6ymIzimECmHcvrwDFw/0yUEA0+zg1s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Chrysanthemum3.jpg",
+      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\Chrysanthemum3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "352812"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W0xeYlA97BLJD6ymIzimECmHcvrwDFw/0yUEA0+zg1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 20:33:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W0xeYlA97BLJD6ymIzimECmHcvrwDFw/0yUEA0+zg1s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Chrysanthemum4.jpg",
+      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\Chrysanthemum4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "556287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gO8b8JIqZT8cVJE6X7i15S+frVf8K5qImAZYkMAWUnU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 20:33:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gO8b8JIqZT8cVJE6X7i15S+frVf8K5qImAZYkMAWUnU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/Chrysanthemum4.oia5ntam6c.jpg",
+      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\Chrysanthemum4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "556287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gO8b8JIqZT8cVJE6X7i15S+frVf8K5qImAZYkMAWUnU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 20:33:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oia5ntam6c"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/Chrysanthemum4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gO8b8JIqZT8cVJE6X7i15S+frVf8K5qImAZYkMAWUnU="
         }
       ]
     },

@@ -157,6 +157,10 @@ wwwroot\assets\images\website-images\2-3-70x78.png
 wwwroot\assets\images\website-images\3.png
 wwwroot\assets\images\website-images\car.png
 wwwroot\assets\images\website-images\card.png
+wwwroot\assets\images\website-images\Chrysanthemum1.jpg
+wwwroot\assets\images\website-images\Chrysanthemum2.jpg
+wwwroot\assets\images\website-images\Chrysanthemum3.jpg
+wwwroot\assets\images\website-images\Chrysanthemum4.jpg
 wwwroot\assets\images\website-images\daffodil_1.jpeg
 wwwroot\assets\images\website-images\daffodil_2.jpeg
 wwwroot\assets\images\website-images\daffodil_3.jpeg
