@@ -1,0 +1,65 @@
+﻿@model List<Category>
+@{
+    int count = 0;
+}
+
+<div class="row">
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Catogeries</h4>
+                <a class="btn btn-success"> Create </a>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    No
+                                </th>
+                                <th>
+                                    Name
+                                </th>
+                                <th>
+                                    Products Count
+                                </th>
+                                <th>
+                                    Date
+                                </th>
+                                <th>
+                                    Settings
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (Category category in Model)
+                            {
+                                count++;
+                                <tr>
+                                    <td>
+                                        @count
+                                    </td>
+                                    <td>
+                                        @category.Name
+                                    </td>
+                                    <td>
+                                        @category.Products.Count
+                                    </td>
+                                    <td>
+                                        @category.CreatedAT.ToString("d MMMM yyy HH:mm")
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-warning"> <i class="mdi mdi-pencil-box"></i></a>
+                                        <a class="btn btn-danger"><i class="mdi mdi-delete-forever"></i></a>
+                                        <a class="btn btn-primary"><i class="mdi mdi-open-in-new"></i></a>
+                                    </td>
+
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
