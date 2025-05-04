@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4XYkCPaN8Qg=",
+  "dgSpecHash": "R2vwsmw4zP4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rana\\Desktop\\CA\\Layihemiz\\Pronia\\Pronia\\Pronia.csproj",
+  "projectFilePath": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\Pronia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rana\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Rana\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

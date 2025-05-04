@@ -1,4 +1,4 @@
-﻿@model List<Category>
+﻿@model List<Color>
 @{
     int count = 0;
 }
@@ -7,8 +7,8 @@
     <div class="col-lg-12 grid-margin stretch-card">
         <div class="card">
             <div class="card-body">
-                <h4 class="card-title">Catogeries</h4>
-                <a asp-controller="category" asp-action="create" class="btn btn-success"> Create </a>
+                <h4 class="card-title">Colors</h4>
+                <a asp-controller="color" asp-action="create" class="btn btn-success"> Create </a>
                 <div class="table-responsive">
                     <table class="table table-striped">
                         <thead>
@@ -20,9 +20,6 @@
                                     Name
                                 </th>
                                 <th>
-                                    Products Count
-                                </th>
-                                <th>
                                     Date
                                 </th>
                                 <th>
@@ -31,7 +28,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                            @foreach (Category category in Model)
+                            @foreach (Color color in Model)
                             {
                                 count++;
                                 <tr>
@@ -39,18 +36,15 @@
                                         @count
                                     </td>
                                     <td>
-                                        @category.Name
+                                        @color.Name
                                     </td>
                                     <td>
-                                        @category.Products.Count
+                                        @color.CreatedAT.ToString("d MMMM yyy HH:mm")
                                     </td>
                                     <td>
-                                        @category.CreatedAT.ToString("d MMMM yyy HH:mm")
-                                    </td>
-                                    <td>
-                                        <a asp-action ="update" asp-route-id="@category.Id" class ="btn btn-warning"> <i class="mdi mdi-pencil-box"></i></a>
-                                        <a asp-action="delete" asp-route-id="@category.Id"  class="btn btn-danger"><i class="mdi mdi-delete-forever"></i></a>
-                                        <a asp-action ="detail" asp-route-id="@category.Id" class="btn btn-primary"><i class="mdi mdi-open-in-new"></i></a>
+                                        <a asp-action="update" asp-route-id="@color.Id" class="btn btn-warning"> <i class="mdi mdi-pencil-box"></i></a>
+                                        <a asp-action="delete" asp-route-id="@color.Id" class="btn btn-danger"><i class="mdi mdi-delete-forever"></i></a>
+                                        <a asp-action="detail" asp-route-id="@color.Id" class="btn btn-primary"><i class="mdi mdi-open-in-new"></i></a>
                                     </td>
 
                                 </tr>
