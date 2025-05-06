@@ -1,0 +1,71 @@
+﻿@model List<Slider>
+@{
+    int count = 0;
+}
+
+<div class="row">
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Slides</h4>
+                <a asp-controller="slider" asp-action="create" class="btn btn-success"> Create </a>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    No
+                                </th>
+                                <th>
+                                    Image
+                                </th>
+                                <th>
+                                    Title
+                                </th>
+                                <th>
+                                    Order
+                                </th>
+                                <th>
+                                    Date
+                                </th>
+                                <th>
+                                    Settings
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (Slider slider in Model)
+                            {
+                                count++;
+                                <tr>
+                                    <td>
+                                        @count
+                                    </td>
+                                    <td>
+                                        <img src="~/assets/images/website-images/@slider.Image"/>
+                                    </td>
+                                    <td>
+                                        @slider.Title
+                                    </td>
+                                    <td>
+                                        @slider.Order
+                                    </td>
+                                    <td>
+                                        @slider.CreatedAT.ToString("d MMMM yyy HH:mm")
+                                    </td>
+                                    <td>
+                                        <a asp-action ="update" asp-route-id="@slider.Id" class ="btn btn-warning"> <i class="mdi mdi-pencil-box"></i></a>
+                                        <a asp-action="delete" asp-route-id="@slider.Id"  class="btn btn-danger"><i class="mdi mdi-delete-forever"></i></a>
+                                        <a asp-action ="detail" asp-route-id="@slider.Id" class="btn btn-primary"><i class="mdi mdi-open-in-new"></i></a>
+                                    </td>
+
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

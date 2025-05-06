@@ -85,5 +85,31 @@ namespace Pronia.Areas.Admin.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id is null || id <= 0) return BadRequest();
+
+            Category? category = await _context.Categories
+                .Where(c => c.IsDeleted == false)
+                .FirstOrDefaultAsync(c => c.Id == id);
+
+            if (category is null) return NotFound();
+
+            //if (category.IsDeleted)
+            //{
+            //    category.IsDeleted = false;
+            //}
+            //else 
+            //{
+            //    category.IsDeleted = true;
+            //}
+
+            _context.Categories.Remove(category);
+
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+        }
     }
 }
