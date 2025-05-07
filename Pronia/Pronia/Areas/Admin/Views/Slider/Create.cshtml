@@ -1,4 +1,4 @@
-﻿@model Slider
+﻿@model CreateSliderVM
 
 <div class="row">
 
@@ -28,7 +28,7 @@
 
                     <div class="form-group">
                         <label asp-for="Photo">Image</label>
-                        <input asp-for="Photo" class="form-control" placeholder="Image">
+                        <input asp-for="Photo" accept="image/*" class="form-control" placeholder="Image">
                         <span class="text-danger" asp-validation-for="Photo"></span>
                     </div>
 

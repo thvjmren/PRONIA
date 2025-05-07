@@ -1,4 +1,4 @@
-﻿@model List<Slider>
+﻿@model List<GetSliderVM>
 @{
     int count = 0;
 }
@@ -34,7 +34,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                            @foreach (Slider slider in Model)
+                            @foreach (GetSliderVM sliderVM in Model)
                             {
                                 count++;
                                 <tr>
@@ -42,21 +42,21 @@
                                         @count
                                     </td>
                                     <td>
-                                        <img src="~/assets/images/website-images/@slider.Image"/>
+                                        <img src="~/assets/images/website-images/@sliderVM.Image" />
                                     </td>
                                     <td>
-                                        @slider.Title
+                                        @sliderVM.Title
                                     </td>
                                     <td>
-                                        @slider.Order
+                                        @sliderVM.Order
                                     </td>
                                     <td>
-                                        @slider.CreatedAT.ToString("d MMMM yyy HH:mm")
+                                        @sliderVM.CreatedAT.ToString("d MMMM yyy HH:mm")
                                     </td>
                                     <td>
-                                        <a asp-action ="update" asp-route-id="@slider.Id" class ="btn btn-warning"> <i class="mdi mdi-pencil-box"></i></a>
-                                        <a asp-action="delete" asp-route-id="@slider.Id"  class="btn btn-danger"><i class="mdi mdi-delete-forever"></i></a>
-                                        <a asp-action ="detail" asp-route-id="@slider.Id" class="btn btn-primary"><i class="mdi mdi-open-in-new"></i></a>
+                                        <a asp-action="update" asp-route-id="@sliderVM.Id" class="btn btn-warning"> <i class="mdi mdi-pencil-box"></i></a>
+                                        <a asp-action="delete" asp-route-id="@sliderVM.Id" class="btn btn-danger"><i class="mdi mdi-delete-forever"></i></a>
+                                        <a asp-action="detail" asp-route-id="@sliderVM.Id" class="btn btn-primary"><i class="mdi mdi-open-in-new"></i></a>
                                     </td>
 
                                 </tr>

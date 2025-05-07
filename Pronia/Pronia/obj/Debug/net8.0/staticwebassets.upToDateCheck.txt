@@ -237,6 +237,8 @@ wwwroot\assets\images\website-images\2-2-370x270.webp
 wwwroot\assets\images\website-images\2-2-70x78.png
 wwwroot\assets\images\website-images\2-3-70x78.png
 wwwroot\assets\images\website-images\3.png
+wwwroot\assets\images\website-images\40f154a0-e9fd-49a5-927c-f5368696b61f.jpg
+wwwroot\assets\images\website-images\41c1e6b4-0095-4b45-b3ac-f3ee1b77ba13.jpg
 wwwroot\assets\images\website-images\car.png
 wwwroot\assets\images\website-images\card.png
 wwwroot\assets\images\website-images\Chrysanthemum1.jpg
