@@ -254,6 +254,7 @@ wwwroot\assets\images\website-images\Daisy_2.jpeg
 wwwroot\assets\images\website-images\Daisy_3.jpeg
 wwwroot\assets\images\website-images\Daisy_4.jpeg
 wwwroot\assets\images\website-images\dark.png
+wwwroot\assets\images\website-images\fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.jpg
 wwwroot\assets\images\website-images\quotation.png
 wwwroot\assets\images\website-images\Lavender_1.jpg
 wwwroot\assets\images\website-images\Lavender_2.jpg

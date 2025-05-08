@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Cgw82j0I0OTJDS9Thfk1NnhPrfiXF9EnUGGGPiJ/tUk=",
+  "Hash": "y00D3lINQ78RhLCMQWmMSL/fmUoJ03IXmvDtoeidRko=",
   "Source": "Pronia",
   "BasePath": "_content/Pronia",
   "Mode": "Default",
@@ -5391,6 +5391,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\dark.png"
+    },
+    {
+      "Identity": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c1v5txndqo",
+      "Integrity": "YD1owuCUORtV1fU1dmvbvZP1sfP/pO6rdSVaPHCkFm0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.jpg"
     },
     {
       "Identity": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\quotation.png",
@@ -27622,6 +27643,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-yuOSJKUr0p7kHTBsA6vrPtw3DxSrZ4HSRYSuY0y9x14="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.c1v5txndqo.jpg",
+      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YD1owuCUORtV1fU1dmvbvZP1sfP/pO6rdSVaPHCkFm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 06:19:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c1v5txndqo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YD1owuCUORtV1fU1dmvbvZP1sfP/pO6rdSVaPHCkFm0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.jpg",
+      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190878"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YD1owuCUORtV1fU1dmvbvZP1sfP/pO6rdSVaPHCkFm0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 06:19:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YD1owuCUORtV1fU1dmvbvZP1sfP/pO6rdSVaPHCkFm0="
         }
       ]
     },
