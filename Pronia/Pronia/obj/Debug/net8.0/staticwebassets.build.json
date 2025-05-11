@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y00D3lINQ78RhLCMQWmMSL/fmUoJ03IXmvDtoeidRko=",
+  "Hash": "0WEaRflWvoSMEs+Uj92/qSkloxb94R8rEkF0M8a8PkY=",
   "Source": "Pronia",
   "BasePath": "_content/Pronia",
   "Mode": "Default",
@@ -4049,6 +4049,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\testimonial\\user\\3.png"
     },
     {
+      "Identity": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\0e7be92a-34c1-4d8d-a912-3a075fd34dea.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/0e7be92a-34c1-4d8d-a912-3a075fd34dea#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dztnf88yv4",
+      "Integrity": "iYYSco416soplV5YvWVgeVU6c5696d/iNKQ9IH7J0RE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\0e7be92a-34c1-4d8d-a912-3a075fd34dea.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\1.png",
       "SourceId": "Pronia",
       "SourceType": "Discovered",
@@ -5078,6 +5099,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\41c1e6b4-0095-4b45-b3ac-f3ee1b77ba13.jpg"
     },
     {
+      "Identity": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\7c086bea-3c89-4d32-9dda-11d2acf6adbd.jpg",
+      "SourceId": "Pronia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\",
+      "BasePath": "_content/Pronia",
+      "RelativePath": "assets/images/website-images/7c086bea-3c89-4d32-9dda-11d2acf6adbd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yab6ejbefe",
+      "Integrity": "Rle2zBbgJbjiXAeZbDZhav6/2A/I+tGTP6qUX3t/rHQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\7c086bea-3c89-4d32-9dda-11d2acf6adbd.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\car.png",
       "SourceId": "Pronia",
       "SourceType": "Discovered",
@@ -5391,27 +5433,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\dark.png"
-    },
-    {
-      "Identity": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.jpg",
-      "SourceId": "Pronia",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\",
-      "BasePath": "_content/Pronia",
-      "RelativePath": "assets/images/website-images/fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "c1v5txndqo",
-      "Integrity": "YD1owuCUORtV1fU1dmvbvZP1sfP/pO6rdSVaPHCkFm0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\website-images\\fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.jpg"
     },
     {
       "Identity": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\quotation.png",
@@ -22399,6 +22420,88 @@
       ]
     },
     {
+      "Route": "assets/images/website-images/0e7be92a-34c1-4d8d-a912-3a075fd34dea.dztnf88yv4.jpg",
+      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\0e7be92a-34c1-4d8d-a912-3a075fd34dea.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "878850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYYSco416soplV5YvWVgeVU6c5696d/iNKQ9IH7J0RE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 14:23:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dztnf88yv4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/0e7be92a-34c1-4d8d-a912-3a075fd34dea.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iYYSco416soplV5YvWVgeVU6c5696d/iNKQ9IH7J0RE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/0e7be92a-34c1-4d8d-a912-3a075fd34dea.jpg",
+      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\0e7be92a-34c1-4d8d-a912-3a075fd34dea.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "878850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYYSco416soplV5YvWVgeVU6c5696d/iNKQ9IH7J0RE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 14:23:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iYYSco416soplV5YvWVgeVU6c5696d/iNKQ9IH7J0RE="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/website-images/1.p45lwpz6z8.png",
       "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\1.png",
       "Selectors": [],
@@ -26417,6 +26520,88 @@
       ]
     },
     {
+      "Route": "assets/images/website-images/7c086bea-3c89-4d32-9dda-11d2acf6adbd.jpg",
+      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\7c086bea-3c89-4d32-9dda-11d2acf6adbd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rle2zBbgJbjiXAeZbDZhav6/2A/I+tGTP6qUX3t/rHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 05:50:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rle2zBbgJbjiXAeZbDZhav6/2A/I+tGTP6qUX3t/rHQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/7c086bea-3c89-4d32-9dda-11d2acf6adbd.yab6ejbefe.jpg",
+      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\7c086bea-3c89-4d32-9dda-11d2acf6adbd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rle2zBbgJbjiXAeZbDZhav6/2A/I+tGTP6qUX3t/rHQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 05:50:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yab6ejbefe"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/7c086bea-3c89-4d32-9dda-11d2acf6adbd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rle2zBbgJbjiXAeZbDZhav6/2A/I+tGTP6qUX3t/rHQ="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/website-images/car.i6d2t4hyna.png",
       "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\car.png",
       "Selectors": [],
@@ -27643,88 +27828,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-yuOSJKUr0p7kHTBsA6vrPtw3DxSrZ4HSRYSuY0y9x14="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/website-images/fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.c1v5txndqo.jpg",
-      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "190878"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YD1owuCUORtV1fU1dmvbvZP1sfP/pO6rdSVaPHCkFm0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:19:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c1v5txndqo"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/website-images/fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YD1owuCUORtV1fU1dmvbvZP1sfP/pO6rdSVaPHCkFm0="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/website-images/fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.jpg",
-      "AssetFile": "C:\\Users\\Rana\\Desktop\\CA\\Layihe\\Pronia\\Pronia\\wwwroot\\assets\\images\\website-images\\fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "190878"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YD1owuCUORtV1fU1dmvbvZP1sfP/pO6rdSVaPHCkFm0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 06:19:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YD1owuCUORtV1fU1dmvbvZP1sfP/pO6rdSVaPHCkFm0="
         }
       ]
     },

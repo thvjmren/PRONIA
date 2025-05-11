@@ -190,6 +190,7 @@ wwwroot\assets\images\testimonial\icon\quotation.png
 wwwroot\assets\images\testimonial\user\1.png
 wwwroot\assets\images\testimonial\user\2.png
 wwwroot\assets\images\testimonial\user\3.png
+wwwroot\assets\images\website-images\0e7be92a-34c1-4d8d-a912-3a075fd34dea.jpg
 wwwroot\assets\images\website-images\1.png
 wwwroot\assets\images\website-images\1-1.jpg
 wwwroot\assets\images\website-images\1-1.png
@@ -239,6 +240,7 @@ wwwroot\assets\images\website-images\2-3-70x78.png
 wwwroot\assets\images\website-images\3.png
 wwwroot\assets\images\website-images\40f154a0-e9fd-49a5-927c-f5368696b61f.jpg
 wwwroot\assets\images\website-images\41c1e6b4-0095-4b45-b3ac-f3ee1b77ba13.jpg
+wwwroot\assets\images\website-images\7c086bea-3c89-4d32-9dda-11d2acf6adbd.jpg
 wwwroot\assets\images\website-images\car.png
 wwwroot\assets\images\website-images\card.png
 wwwroot\assets\images\website-images\Chrysanthemum1.jpg
@@ -254,7 +256,6 @@ wwwroot\assets\images\website-images\Daisy_2.jpeg
 wwwroot\assets\images\website-images\Daisy_3.jpeg
 wwwroot\assets\images\website-images\Daisy_4.jpeg
 wwwroot\assets\images\website-images\dark.png
-wwwroot\assets\images\website-images\fe1b38a8-85eb-4a4b-ac36-ff5e617ecef5.jpg
 wwwroot\assets\images\website-images\quotation.png
 wwwroot\assets\images\website-images\Lavender_1.jpg
 wwwroot\assets\images\website-images\Lavender_2.jpg
