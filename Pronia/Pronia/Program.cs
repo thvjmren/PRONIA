@@ -21,6 +21,9 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 });
 
 var app = builder.Build();
+
+app.UseAuthentication();
+app.UseAuthorization();
 app.UseStaticFiles();
 
 
